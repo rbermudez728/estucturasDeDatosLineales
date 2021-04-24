@@ -1,0 +1,17 @@
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.csprojAssemblyReference.cache
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosLineales.FmLogin.resources
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.Properties.Resources.resources
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.csproj.GenerateResource.cache
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.csproj.CoreCompileInputs.cache
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosLineales.FrmMenu.resources
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosLineales.AdministrarMovilizacionAnimal.resources
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\bin\Debug\EstructurasDeDatosArboles.exe.config
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\bin\Debug\EstructurasDeDatosArboles.exe
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\bin\Debug\EstructurasDeDatosArboles.pdb
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.exe
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.pdb
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosLineales.FrmEscenario1Arboles.resources
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\bin\Debug\EstructurasDeDatosArboles.exe.manifest
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\bin\Debug\EstructurasDeDatosArboles.application
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.exe.manifest
+C:\Users\tusk2\source\repos\dotNet2\EstructurasDeDatosArboles\obj\Debug\EstructurasDeDatosArboles.application
